@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_postedtimg" value="name:id;datatype:int,name:menu;datatype:string,name:titulo;datatype:string,name:corpo;datatype:blob,name:min_desc;datatype:string,name:autor;datatype:string,name:username;datatype:string,name:data;datatype:string,name:hora;datatype:string,name:capa;datatype:string" />
+	<infoitem key="UD_capaprojeto" value="name:id;datatype:int,name:capa;datatype:string" />
+	<infoitem key="UD_capapost" value="name:id;datatype:int,name:capa;datatype:string" />
+</info>

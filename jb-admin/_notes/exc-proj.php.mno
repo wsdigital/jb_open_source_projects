@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_excproj" value="name:id;datatype:int,name:autor;datatype:string,name:username;datatype:string,name:categoria;datatype:string,name:titulo;datatype:string,name:descricao;datatype:blob,name:capa;datatype:string,name:demo;datatype:string,name:download;datatype:string" />
+</info>

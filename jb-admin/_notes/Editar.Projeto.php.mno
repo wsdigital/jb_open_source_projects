@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_projetoedt" value="name:id;datatype:int,name:autor;datatype:string,name:username;datatype:string,name:categoria;datatype:string,name:titulo;datatype:string,name:descricao;datatype:blob,name:capa;datatype:string,name:demo;datatype:string,name:download;datatype:string" />
+	<infoitem key="UD_userlogado" value="name:id;datatype:int,name:nome;datatype:string,name:username;datatype:string,name:foto;datatype:string,name:email;datatype:string,name:senha;datatype:string,name:nivel;datatype:string" />
+	<infoitem key="UD_menu" value="name:id;datatype:int,name:autor;datatype:string,name:titulo;datatype:string,name:capa;datatype:string,name:desc;datatype:blob" />
+</info>

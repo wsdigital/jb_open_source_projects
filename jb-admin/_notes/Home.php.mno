@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_userlogado" value="name:id;datatype:int,name:nome;datatype:string,name:username;datatype:string,name:foto;datatype:string,name:email;datatype:string,name:senha;datatype:string,name:nivel;datatype:string" />
+	<infoitem key="UD_totalprojeto" value="name:id;datatype:int,name:autor;datatype:string,name:username;datatype:string,name:categoria;datatype:string,name:titulo;datatype:string,name:descricao;datatype:blob,name:capa;datatype:string,name:demo;datatype:string,name:download;datatype:string" />
+	<infoitem key="UD_totalpost" value="name:id;datatype:int,name:menu;datatype:string,name:titulo;datatype:string,name:corpo;datatype:blob,name:min_desc;datatype:string,name:autor;datatype:string,name:username;datatype:string,name:data;datatype:string,name:hora;datatype:string,name:capa;datatype:string" />
+	<infoitem key="UD_comunicado" value="name:id;datatype:int,name:corpo;datatype:blob" />
+	<infoitem key="UD_atlfoto" value="name:id;datatype:int,name:username;datatype:string,name:foto;datatype:string" />
+</info>

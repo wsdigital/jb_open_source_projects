@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_excimg" value="name:id;datatype:int,name:id_projeto;datatype:string,name:url;datatype:string,name:titulo_img;datatype:string,name:autor;datatype:string" />
+</info>
